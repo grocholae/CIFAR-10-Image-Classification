@@ -5,7 +5,7 @@ This project was developed as part of my university coursework in Artificial Int
 
 ## Tech Stack
 * Language: Python 3.x
-* Deep Learning: TensorFlow, Keras
+* Deep Learning: Keras
 * Data Processing: NumPy, Scikit-learn
 * Visualization: Matplotlib
 
